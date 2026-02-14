@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://junomailhelpguide.readthedocs.io/en/latest/
